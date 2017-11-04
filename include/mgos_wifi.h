@@ -7,7 +7,6 @@
 #define CS_MOS_LIBS_WIFI_SRC_MGOS_WIFI_H_
 
 #include <stdbool.h>
-#include <smartconfig.h>
 #include "mgos_sys_config.h"
 
 #ifdef __cplusplus
